@@ -1,4 +1,4 @@
-# NLP_RestaurantReview
+# NLP Restaurant Review
 
 This is my mini project to analyze text data using NLP. It is a simple dataset from kaggle which is "Restaurant Review".
 
