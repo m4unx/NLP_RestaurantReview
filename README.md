@@ -8,5 +8,5 @@ Below are the steps taken:
 3. Transform to Document Term Metric (dataframe)
 4. Analyse Top words from Documenent Term Metric
 5. Wordcloud - presentation on most frequent words
-6. Topic Modellimg - Get summary on general oppinion of customers's review
-7. Some sentiment analysis
+6. Topic Modelling - Get summary on general oppinion of customers's review
+7. Sentiment analysis
